@@ -392,11 +392,11 @@
 </channel>
 <channel id="RTP 1 HD">
 <display-name lang="pt">RTP 1 HD</display-name>
-<url>http://www.rtpHD.pt</url>
+<url>http://rtpHD</url>
 </channel>
 <channel id="RTP 1">
 <display-name lang="pt">RTP 1</display-name>
-<url>http://www.rtp1.pt</url>
+<url>http://rtp1.pt</url>
 </channel>
 <channel id="RTP 2">
 <display-name lang="pt">RTP 2</display-name>
